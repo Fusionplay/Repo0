@@ -3,3 +3,4 @@ kljklkj
 jsklajlfijdfijghsldifhkj
 a New branch is created now.
 Creating a new branch is quick and simple.
+To test no--ff mode of merging.
